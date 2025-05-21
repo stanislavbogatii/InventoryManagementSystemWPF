@@ -1,26 +1,113 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\stasb\\source\\repos\\InventoryManagementSystemWPF\\",
+  "WorkspaceRootPath": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94D6BCF7-B37F-4E41-A87A-D7AA9B37AB9B}|Presentation\\Presentation.csproj|c:\\users\\stasb\\source\\repos\\inventorymanagementsystemwpf\\presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{94D6BCF7-B37F-4E41-A87A-D7AA9B37AB9B}|Presentation\\Presentation.csproj|solutionrelative:presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94D6BCF7-B37F-4E41-A87A-D7AA9B37AB9B}|Presentation\\Presentation.csproj|c:\\users\\stasb\\source\\repos\\inventorymanagementsystemwpf\\presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94D6BCF7-B37F-4E41-A87A-D7AA9B37AB9B}|Presentation\\Presentation.csproj|solutionrelative:presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C99330-D7C3-499B-B34B-4ED399D0262E}|Application\\Application.csproj|c:\\users\\stasb\\source\\repos\\inventorymanagementsystemwpf\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\views\\registerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\registerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\views\\registerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\registerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{126F9997-4C2C-48F0-AA14-ABA8969ADE7F}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C99330-D7C3-499B-B34B-4ED399D0262E}|Application\\Application.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6C99330-D7C3-499B-B34B-4ED399D0262E}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF216BF-0CF1-4069-A0E5-5AE296CB12EE}|Domain\\Domain.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\domain\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF216BF-0CF1-4069-A0E5-5AE296CB12EE}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF216BF-0CF1-4069-A0E5-5AE296CB12EE}|Domain\\Domain.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF216BF-0CF1-4069-A0E5-5AE296CB12EE}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF216BF-0CF1-4069-A0E5-5AE296CB12EE}|Domain\\Domain.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AF216BF-0CF1-4069-A0E5-5AE296CB12EE}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9848FF05-40C1-458A-9B06-7E24361CBE0C}|Infrastructure\\Infrastructure.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9848FF05-40C1-458A-9B06-7E24361CBE0C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stanislav\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9848FF05-40C1-458A-9B06-7E24361CBE0C}|Infrastructure\\Infrastructure.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9848FF05-40C1-458A-9B06-7E24361CBE0C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9848FF05-40C1-458A-9B06-7E24361CBE0C}|Infrastructure\\Infrastructure.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9848FF05-40C1-458A-9B06-7E24361CBE0C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF216BF-0CF1-4069-A0E5-5AE296CB12EE}|Domain\\Domain.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF216BF-0CF1-4069-A0E5-5AE296CB12EE}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C99330-D7C3-499B-B34B-4ED399D0262E}|Application\\Application.csproj|c:\\users\\stanislav\\documents\\c3s2\\tmpp\\project\\inventorymanagementsystemwpf\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6C99330-D7C3-499B-B34B-4ED399D0262E}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9848FF05-40C1-458A-9B06-7E24361CBE0C}|Infrastructure\\Infrastructure.csproj|c:\\users\\stasb\\source\\repos\\inventorymanagementsystemwpf\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9848FF05-40C1-458A-9B06-7E24361CBE0C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AF216BF-0CF1-4069-A0E5-5AE296CB12EE}|Domain\\Domain.csproj|c:\\users\\stasb\\source\\repos\\inventorymanagementsystemwpf\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AF216BF-0CF1-4069-A0E5-5AE296CB12EE}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +117,368 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\InventoryManagementSystemWPF\\Presentation\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Presentation\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\stasb\\source\\repos\\InventoryManagementSystemWPF\\Presentation\\MainWindow.xaml",
-              "RelativeToolTip": "Presentation\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-20T13:49:39.44Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\InventoryManagementSystemWPF\\Presentation\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Presentation\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\stasb\\source\\repos\\InventoryManagementSystemWPF\\Presentation\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Presentation\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T13:49:39.12Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\InventoryManagementSystemWPF\\Application\\Class1.cs",
-              "RelativeDocumentMoniker": "Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\stasb\\source\\repos\\InventoryManagementSystemWPF\\Application\\Class1.cs",
-              "RelativeToolTip": "Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Presentation\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAQAAAEAswBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T13:48:35.815Z",
+              "WhenOpened": "2025-05-21T22:14:39.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\InventoryManagementSystemWPF\\Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\stasb\\source\\repos\\InventoryManagementSystemWPF\\Infrastructure\\Class1.cs",
-              "RelativeToolTip": "Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Presentation\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Presentation\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T13:48:12.608Z",
+              "WhenOpened": "2025-05-21T22:09:05.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterView.xaml",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Views\\RegisterView.xaml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\RegisterView.xaml",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Views\\RegisterView.xaml",
+              "RelativeToolTip": "Presentation\\Views\\RegisterView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T22:13:56.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\InventoryManagementSystemWPF\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\stasb\\source\\repos\\InventoryManagementSystemWPF\\Domain\\Class1.cs",
-              "RelativeToolTip": "Domain\\Class1.cs",
+              "Title": "HomeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Views\\HomeView.xaml.cs",
+              "RelativeDocumentMoniker": "Presentation\\Views\\HomeView.xaml.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Views\\HomeView.xaml.cs",
+              "RelativeToolTip": "Presentation\\Views\\HomeView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:15:41.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Views\\LoginView.xaml",
+              "RelativeToolTip": "Presentation\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T22:13:40.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Presentation\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\AssemblyInfo.cs",
+              "RelativeToolTip": "Presentation\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T13:47:46.658Z",
+              "WhenOpened": "2025-05-21T22:21:51.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "Presentation\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "Presentation\\Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:14:11.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Presentation\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\MainWindow.xaml",
+              "RelativeToolTip": "Presentation\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T22:09:05.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Views\\RegisterView.xaml.cs",
+              "RelativeDocumentMoniker": "Presentation\\Views\\RegisterView.xaml.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Views\\RegisterView.xaml.cs",
+              "RelativeToolTip": "Presentation\\Views\\RegisterView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:14:10.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Views\\HomeView.xaml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\HomeView.xaml",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Views\\HomeView.xaml",
+              "RelativeToolTip": "Presentation\\Views\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T22:14:06.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Presentation\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:14:49.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "Presentation\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:14:58.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Presentation\\Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "Presentation\\Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:11:03.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Services\\NavigationService.cs",
+              "RelativeDocumentMoniker": "Presentation\\Services\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Services\\NavigationService.cs",
+              "RelativeToolTip": "Presentation\\Services\\NavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:11:27.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Presentation\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\App.xaml.cs",
+              "RelativeToolTip": "Presentation\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:16:25.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\App.xaml",
+              "RelativeDocumentMoniker": "Presentation\\App.xaml",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\App.xaml",
+              "RelativeToolTip": "Presentation\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T22:16:17.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Presentation",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Presentation.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Presentation\\Presentation.csproj",
+              "RelativeToolTip": "Presentation\\Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T22:09:09.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T22:06:25.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T20:33:09.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:40:16.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:31:59.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Domain\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Domain\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:33:30.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:57:36.557Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:35:01.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T20:34:33.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Domain\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:32:10.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\Stanislav\\Documents\\C3S2\\TMPP\\Project\\InventoryManagementSystemWPF\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:48:35.815Z",
               "EditorCaption": ""
             }
           ]

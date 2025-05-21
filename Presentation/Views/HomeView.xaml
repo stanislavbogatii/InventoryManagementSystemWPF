@@ -1,0 +1,14 @@
+﻿<Page x:Class="Presentation.Views.HomeView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:vm="clr-namespace:Presentation.ViewModels"
+      Title="HomeView">
+
+    <Page.DataContext>
+        <vm:HomeViewModel />
+    </Page.DataContext>
+
+    <Grid>
+        <TextBlock Text="Добро пожаловать!" FontSize="24" />
+    </Grid>
+</Page>

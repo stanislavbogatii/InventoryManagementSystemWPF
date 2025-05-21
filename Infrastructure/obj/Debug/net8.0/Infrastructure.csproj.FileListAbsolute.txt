@@ -1,0 +1,16 @@
+C:\Users\Stanislav\Documents\C3S2\TMPP\Project\InventoryManagementSystemWPF\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Stanislav\Documents\C3S2\TMPP\Project\InventoryManagementSystemWPF\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Stanislav\Documents\C3S2\TMPP\Project\InventoryManagementSystemWPF\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Stanislav\Documents\C3S2\TMPP\Project\InventoryManagementSystemWPF\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Stanislav\Documents\C3S2\TMPP\Project\InventoryManagementSystemWPF\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Stanislav\Documents\C3S2\TMPP\Project\InventoryManagementSystemWPF\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Stanislav\Documents\C3S2\TMPP\Project\InventoryManagementSystemWPF\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav\Documents\C3S2\TMPP\Project\InventoryManagementSystemWPF\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Stanislav\Documents\C3S2\TMPP\Project\InventoryManagementSystemWPF\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Stanislav\Documents\C3S2\TMPP\Project\InventoryManagementSystemWPF\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Documents\C3S2\TMPP\Project\InventoryManagementSystemWPF\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\Stanislav\Documents\C3S2\TMPP\Project\InventoryManagementSystemWPF\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Stanislav\Documents\C3S2\TMPP\Project\InventoryManagementSystemWPF\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Stanislav\Documents\C3S2\TMPP\Project\InventoryManagementSystemWPF\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Stanislav\Documents\C3S2\TMPP\Project\InventoryManagementSystemWPF\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Stanislav\Documents\C3S2\TMPP\Project\InventoryManagementSystemWPF\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
